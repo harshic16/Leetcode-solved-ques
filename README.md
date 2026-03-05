@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
 |  |
