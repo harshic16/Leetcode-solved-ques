@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
 |  |
