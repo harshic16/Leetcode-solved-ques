@@ -32,6 +32,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
