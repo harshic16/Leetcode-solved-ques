@@ -34,6 +34,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
