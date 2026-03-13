@@ -20,6 +20,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -28,6 +29,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [2998-count-symmetric-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +82,16 @@
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1009-complement-of-base-10-integer) |
+## Binary Search
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Greedy
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
