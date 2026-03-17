@@ -19,6 +19,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sliding Window
 |  |
@@ -96,6 +99,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
