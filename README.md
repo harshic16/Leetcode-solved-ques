@@ -19,6 +19,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
