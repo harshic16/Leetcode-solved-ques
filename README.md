@@ -62,11 +62,13 @@
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -80,6 +82,7 @@
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
 |  |
