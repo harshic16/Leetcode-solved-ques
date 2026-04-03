@@ -38,6 +38,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [2751-robot-collisions](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
