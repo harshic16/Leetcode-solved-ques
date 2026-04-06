@@ -18,6 +18,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
+| [0874-walking-robot-simulation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0874-walking-robot-simulation) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -74,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
