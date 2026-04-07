@@ -170,6 +170,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -185,4 +186,8 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2751-robot-collisions) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
