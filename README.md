@@ -38,6 +38,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
@@ -174,6 +175,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
