@@ -39,6 +39,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
@@ -196,4 +197,5 @@
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
