@@ -22,6 +22,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1980-find-unique-binary-string) |
