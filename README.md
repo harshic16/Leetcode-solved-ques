@@ -41,6 +41,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -63,6 +64,7 @@
 | [2998-count-symmetric-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -89,6 +91,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
@@ -178,6 +181,7 @@
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2833-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
