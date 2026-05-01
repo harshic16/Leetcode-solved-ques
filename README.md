@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [0874-walking-robot-simulation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0396-rotate-function) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2998-count-symmetric-integers) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
