@@ -65,6 +65,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0788-rotated-digits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2998-count-symmetric-integers) |
@@ -79,6 +80,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
+| [0788-rotated-digits](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
