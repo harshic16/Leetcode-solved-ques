@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -238,6 +239,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |
