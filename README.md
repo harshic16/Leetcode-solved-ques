@@ -76,6 +76,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -97,6 +98,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
