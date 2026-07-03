@@ -58,6 +58,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -103,6 +104,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -232,6 +234,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -249,6 +252,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -341,8 +345,14 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
