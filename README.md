@@ -20,6 +20,7 @@
 | [0396-rotate-function](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0416-partition-equal-subset-sum) |
 | [0874-walking-robot-simulation](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshic16/Leetcode-solved-ques/tree/master/0368-largest-divisible-subset) |
+| [1288-remove-covered-intervals](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshic16/Leetcode-solved-ques/tree/master/1833-maximum-ice-cream-bars) |
