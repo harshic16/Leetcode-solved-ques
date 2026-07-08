@@ -85,6 +85,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -169,6 +170,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshic16/Leetcode-solved-ques/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
